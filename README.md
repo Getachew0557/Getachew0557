@@ -44,4 +44,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=getachew0557&" alt="getachew0557" /></p>
 
-🌍 Check out my GitHub Page: [getachew0557.github.io](https://getachew0557.github.io/)
