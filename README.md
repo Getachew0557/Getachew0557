@@ -27,12 +27,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/getachew.vercel.app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="getachew.vercel.app" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/getachew-getu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="getachew-getu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22369535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22369535" height="30" width="40" /></a>
 <a href="https://kaggle.com/getachewgetuenyew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="getachewgetuenyew" height="30" width="40" /></a>
 <a href="https://medium.com/@getachewgetu2010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@getachewgetu2010" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/getachewenyew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="getachewenyew" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
