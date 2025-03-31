@@ -1,5 +1,19 @@
-<h1 align="center">Hi 👋, I'm Getachew</h1>
-<h3 align="center">A passionate Software Engineer | AI/ML Engineer</h3>
+# Hi 👋, I'm Getachew Getu
+
+### Experienced Software Engineer | AI/ML Engineer | Cybersecurity Researcher
+
+<p align="center">
+  Currently working on an AI-driven Cyber Security Tool to enhance data security using AI.
+  Passionate about AI, Machine Learning, and Cybersecurity.
+</p>
+
+---
+
+### 🚀 About Me
+
+I'm a software engineer with a keen interest in **AI/ML**, **Cybersecurity**, and **Technology**. My goal is to develop innovative solutions that solve real-world problems. I’m particularly focused on using AI to advance cybersecurity efforts and make the internet a safer place.
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=getachew0557&label=Profile%20views&color=0e75b6&style=flat" alt="getachew0557" /> </p>
 
