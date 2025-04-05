@@ -1,7 +1,7 @@
 # Hi 👋, I'm Getachew Getu
 ####
 
-### Experienced Software Engineer | AI/ML Engineer | Cybersecurity Researcher
+### Full Stack Software Developer | AI/ML Engineer | LLM Enthusiast | MERN Stack | Cybersecurity Expert | AI & Cybersecurity Researcher
 
 <p align="center">
   Currently working on an AI-driven Cyber Security Tool to enhance data security using AI.
@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I'm a software engineer with a keen interest in **AI/ML**, **Cybersecurity**, and **Technology**. My goal is to develop innovative solutions that solve real-world problems. I’m particularly focused on using AI to advance cybersecurity efforts and make the internet a safer place.
+I'm a software engineer with a deep passion for AI/ML, Cybersecurity, and Technology. My mission is to create cutting-edge solutions that tackle real-world challenges, particularly through the lens of AI. I specialize in developing tools that advance cybersecurity, aiming to make the digital landscape safer and smarter for everyone.
 
 ---
 
