@@ -3,11 +3,6 @@
 
 ### Full Stack Software Developer | AI/ML Engineer | LLM Enthusiast | MERN Stack | Cybersecurity Expert | AI & Cybersecurity Researcher
 
-<p align="center">
-  Currently working on an AI-driven Cyber Security Tool to enhance data security using AI.
-  Passionate about AI, Machine Learning, and Cybersecurity.
-</p>
-
 ---
 
 ### 🚀 About Me
