@@ -19,7 +19,7 @@ I'm a software engineer with a deep passion for AI/ML, Cybersecurity, Web develo
 
 - 🌱 I’m currently learning **Gen AI, AWS Cloud computing**
 
-- 🤝 I’m looking for help with **AI/ML project**
+- 🤝 I’m looking for help with **AI/ML and LLM project**
 
 - 👨‍💻 All of my projects are available at [https://getachew.vercel.app/](https://getachew.vercel.app/)
 
