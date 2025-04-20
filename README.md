@@ -7,7 +7,7 @@
 
 ### 🚀 About Me
 
-I'm a software engineer with a deep passion for AI/ML, Cybersecurity, Web development and Technology. My mission is to create cutting-edge solutions that tackle real-world challenges, particularly through the lens of AI. I specialize in developing tools that advance cybersecurity, aiming to make the digital landscape safer and smarter for everyone.
+I'm a software engineer with a deep passion for AI/ML,LLM, Cybersecurity, Web development and Technology. My mission is to create cutting-edge solutions that tackle real-world challenges, particularly through the lens of AI. I specialize in developing tools that advance cybersecurity, aiming to make the digital landscape safer and smarter for everyone.
 
 ---
 
