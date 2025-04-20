@@ -54,6 +54,8 @@ I'm a software engineer with a deep passion for AI/ML, LLM, Cybersecurity, and W
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
 
 #### 🗄️ **Databases**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
@@ -72,8 +74,6 @@ I'm a software engineer with a deep passion for AI/ML, LLM, Cybersecurity, and W
 ![Kibana](https://img.shields.io/badge/-Kibana-005571?logo=kibana)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?logo=mathworks)
