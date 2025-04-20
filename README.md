@@ -5,10 +5,12 @@
 
 ### 🚀 About Me
 I'm a software engineer with a deep passion for AI/ML, LLM, Cybersecurity, and Web Development. My mission is to create cutting-edge solutions that tackle real-world challenges through AI-powered cybersecurity innovations, aiming to make the digital landscape safer and smarter.
-- 👨‍💻 All project: [Portfolio](https://getachew.vercel.app/)
-- 📝 Blog: [Medium Articles](https://medium.com/@getachewgetu2010)
-- 📫 Email: [getachewgetu2010@gmail.com](mailto:getachewgetu2010@gmail.com)
-- 📄 Resume: [View PDF](https://drive.google.com/file/d/1ybVY2oliC0HvwYRqmFdpFB7RAtXFQJFl/view)
+
+🔗 **Connect**  
+- 🖥️ [Portfolio](https://getachew.vercel.app/)
+- 📝 [Medium Blog](https://medium.com/@getachewgetu2010)
+- ✉️ [Email Me](mailto:getachewgetu2010@gmail.com)
+- 📄 [View Resume](https://drive.google.com/file/d/1ybVY2oliC0HvwYRqmFdpFB7RAtXFQJFl/view)
 
 ---
 
