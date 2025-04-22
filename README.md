@@ -88,6 +88,7 @@ I'm a software engineer with a deep passion for AI/ML, LLM, Cybersecurity, and W
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions)
 
 #### 🛠️ **Tools**
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch)
