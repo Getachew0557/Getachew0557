@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-I'm a software engineer with a deep passion for AI/ML, LLM, Cybersecurity, and Web Development. My mission is to create cutting-edge solutions that tackle real-world challenges through AI-powered cybersecurity innovations, aiming to make the digital landscape safer and smarter.
+I'm a software engineer with a deep passion for AI/ML, LLM, Gen Ai, Cybersecurity, and Web Development. My mission is to create cutting-edge solutions that tackle real-world challenges through AI-powered cybersecurity innovations, aiming to make the digital landscape safer and smarter.
 
 🔗 **Connect**  
 - 🖥️ [Portfolio](https://getachew.vercel.app/)
